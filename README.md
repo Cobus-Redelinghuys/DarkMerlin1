@@ -29,6 +29,6 @@ I am currently working on a group project for the COS301 module
 
 ### Contact details
 
-Email: cobus.redelinghuys1@gmail.com / u19089296@tuks.co.za
-LinkedIn: www.linkedin.com/in/cobus-redelinghuys-5a752516b
+Email: cobus.redelinghuys1@gmail.com / u19089296@tuks.co.za <br>
+LinkedIn: www.linkedin.com/in/cobus-redelinghuys-5a752516b <br>
 GitHub: https://github.com/DarkMerlin1
