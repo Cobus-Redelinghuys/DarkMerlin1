@@ -2,6 +2,8 @@
 
 ### Hi there 👋
 
+My name is Cobus Redelinghuys (Full name: Francois Jacobus Redelinghuys). I am currently busy with my final year of a BSc Computer Science degree at the University Of Pretoria. I am looking forward to create a research orientated career focusing on Computer Science and Aviation
+
 ### Technologies and Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=006994)
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=006994)
@@ -21,17 +23,12 @@
 ![](https://img.shields.io/badge/Language-ASM-informational?style=flat&logo=ASM&logoColor=white&color=006994)
 
 
-<!--
-**DarkMerlin1/DarkMerlin1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Current Project
 
-Here are some ideas to get you started:
+I am currently working on a group project for the COS301 module
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Contact details
+
+Email: cobus.redelinghuys1@gmail.com / u19089296@tuks.co.za
+LinkedIn: www.linkedin.com/in/cobus-redelinghuys-5a752516b
+GitHub: https://github.com/DarkMerlin1
