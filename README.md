@@ -2,6 +2,9 @@
 
 ### Hi there 👋
 
+### Technologies and Tools
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=ad1a1a)
+
 <!--
 **DarkMerlin1/DarkMerlin1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
