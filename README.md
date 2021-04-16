@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/DarkMerlin1/<OWNER>/<OWNER>/CobusRedelinghuys(1).png "Header")]
+[![Header](https://github.com/DarkMerlin1/DarkMerlin1/blob/main/Cobus%20redelinghuys%20(1).png "Header")]
 
 ### Hi there 👋
 
