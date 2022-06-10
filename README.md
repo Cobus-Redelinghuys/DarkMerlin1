@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-My name is Cobus Redelinghuys (Full name: Francois Jacobus Redelinghuys). I am currently busy with my final year of a BSc Computer Science degree at the University Of Pretoria. I am looking forward to create a research orientated career focusing on Computer Science and Aviation
+My name is Cobus Redelinghuys (Full name: Francois Jacobus Redelinghuys). I am currently busy with my honours in Computer Science (BSc (Hons) CS) at the University Of Pretoria. I am looking forward to create a research orientated career focusing on Computer Science and Aviation
 
 ### Technologies and Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=006994)
